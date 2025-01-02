@@ -7,7 +7,7 @@ This gave a good baseline for all of the numeric and categorical columns.
 ### Business problem
 The goal is to help businesses understand which factors impact sales and to forecast the item outlet sales, accurately predicting sales performance is critical for making data-driven decisions, improving efficiency, and increasing revenue.
 ### Data
-### Methods
+### Methodology
 1- 
 2- 
 ### Result
@@ -16,3 +16,10 @@ The polt shows  that the majority of the item sales are fruit and vegetables
 ![download (1)](https://github.com/user-attachments/assets/61bd22ef-834c-4123-8fd0-a3c48a327c42)
 
 The highest sales are in Supermarket Type 3 compared with the other types
+
+### Model
+The model used is 
+### Conclusion
+
+
+### Recommendations
