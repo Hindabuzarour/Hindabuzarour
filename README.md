@@ -1,4 +1,5 @@
-## Prediction of Product Sales
+# Prediction of Product Sales
+### overview of the project
 Prediction of Product Sales it is a critical process for business planning and decision-making, involving the use of data analysis and statistical models to predict future sales, the outcomes from this project is to predict the sales items in different outlet type.
 During the exploratory data analysis, a countplot was visualized for each numeric datatype column. 
 Also, a barplot was visualized for each categorical column. 
