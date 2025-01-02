@@ -7,6 +7,10 @@ This gave a good baseline for all of the numeric and categorical columns.
 ### Business problem
 The goal is to help businesses understand which factors impact sales and to forecast the item outlet sales, accurately predicting sales performance is critical for making data-driven decisions, improving efficiency, and increasing revenue.
 ### Data
+The data used for this project is sourced from ??, the main objective of this dataset is to understand how various factors impact Sales of the product in the particular store and to predict future outlet sales. The data include features about outlet type & location, item type, item weight & Maximum Retail Price.
+
+- Number of Observations: 8523
+- Number of Features: 12
 ### Methodology
 1- 
 2- 
