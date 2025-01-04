@@ -21,22 +21,25 @@ The data used for this project is sourced from the company, the main objective o
   
 ### Result
 
-Heatmap to examine correlations between numerical variables
+##### Heatmap to examine correlations between numerical variables
 ![download (2)](https://github.com/user-attachments/assets/2d334a51-0d37-4aaa-974e-f487740e65dc)
-- Stronge relationship between
+- Positive stronge relationship between iteam outlet sales and
   
+##### 
 ![download](https://github.com/user-attachments/assets/6d5cb623-5f3e-4701-b242-0e546c674b89)
-- The polt shows  that the majority of the item sales are fruit and vegetables 
+- The polt shows  that the majority of the item sales are fruit and vegetables
+
+#####  Sales item in different outlet type
 ![download (1)](https://github.com/user-attachments/assets/61bd22ef-834c-4123-8fd0-a3c48a327c42)
 - The highest sales are in Supermarket Type 3 compared with the other types
 
 ### Model
 The final model used is a Random Forest Regressor.
-The model is able to explain 60% of the features that lead to changes in Item Outlet Sales, 
+The model is able to explain 60% of the features that lead to changes in Item Outlet Sales, the model predictions for the new data are close to true outlet sale by 736 USD
 
 ### Conclusion
-We trained multiple machine learning models and evaluated their performance, the Random Forest Regressor is the best model it can predected the item outlet sales with minimum error. 
+We trained multiple machine learning models and evaluated their performance, the Random Forest Regressor is the best model it can predict the item outlet sales with minimum error. 
 
 ### Recommendations
-- As we say the model is able to explain 60% of the features that lead to changes in Item Outlet Sales for new dataset, this suggests that while the model provides useful insights, but there is still room for improvement the model, by incorporating additional features that might have been overlooked or increase the observation.
+- As we say the model is able to explain 60% of the features that lead to changes in Item Outlet Sales for new dataset, this suggests that while the model provides useful insights, but there is still room for improvement the model, by incorporating additional features that might have been overlooked or increase the observation. This lead to minimize the error. 
   
