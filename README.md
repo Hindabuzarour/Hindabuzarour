@@ -23,7 +23,7 @@ The data used for this project is sourced from the company, the main objective o
 
 #### Heatmap to examine correlations between numerical variables 
 ![download (2)](https://github.com/user-attachments/assets/2d334a51-0d37-4aaa-974e-f487740e65dc)
-- Positive stronge relationship between iteam outlet sales and	maximum retail price (list price) of the product
+- Positive moderate relationship between iteam outlet sales and	maximum retail price (list price) of the product
   
 #### Item type 
 ![download](https://github.com/user-attachments/assets/6d5cb623-5f3e-4701-b242-0e546c674b89)
@@ -41,5 +41,8 @@ The model is able to explain 60% of the features that lead to changes in Item Ou
 We trained multiple machine learning models and evaluated their performance, the Random Forest Regressor is the best model it can predict the item outlet sales with minimum error. 
 
 ### Recommendations
-- As we say the model is able to explain 60% of the features that lead to changes in Item Outlet Sales for new dataset, this suggests that while the model provides useful insights, but there is still room for improvement the model, by incorporating additional features that might have been overlooked or increase the observation. This lead to minimize the error. 
+- As we say the model is able to explain 60% of the features that lead to changes in Item Outlet Sales for new dataset, this suggests that while the model provides useful insights, but there is still room for improvement the model, by incorporating additional features that might have been overlooked or increase the observation. This lead to minimize the error.
+
+### For further information
+For any additional questions, please contact Hindabuzarour@gmail.com
   
