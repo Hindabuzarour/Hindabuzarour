@@ -21,15 +21,15 @@ The data used for this project is sourced from the company, the main objective o
   
 ### Result
 
-##### Heatmap to examine correlations between numerical variables
+#### Heatmap to examine correlations between numerical variables 
 ![download (2)](https://github.com/user-attachments/assets/2d334a51-0d37-4aaa-974e-f487740e65dc)
-- Positive stronge relationship between iteam outlet sales and
+- Positive stronge relationship between iteam outlet sales and	maximum retail price (list price) of the product
   
-##### 
+#### Item type 
 ![download](https://github.com/user-attachments/assets/6d5cb623-5f3e-4701-b242-0e546c674b89)
 - The polt shows  that the majority of the item sales are fruit and vegetables
 
-#####  Sales item in different outlet type
+####  Sales item in different outlet type
 ![download (1)](https://github.com/user-attachments/assets/61bd22ef-834c-4123-8fd0-a3c48a327c42)
 - The highest sales are in Supermarket Type 3 compared with the other types
 
